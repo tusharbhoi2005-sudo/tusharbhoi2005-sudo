@@ -19,7 +19,7 @@ Quick edits:
 <br/>
 
 <a href="https://github.com/tusharbhoi2005-sudo">
-  <img src="https://github.com/DenverCoder1/DenverCoder1/raw/main/readme-assets/octocat.png" width="145" alt="Friendly GitHub Octocat mascot" />
+  
 </a>
 
 <br/>
