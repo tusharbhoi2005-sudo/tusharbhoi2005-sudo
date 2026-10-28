@@ -59,7 +59,7 @@ Hey! I'm **Tushar**, a Computer Engineering student who enjoys creating practica
       <h3>📄 Resume Screener</h3>
       <p>A browser-based tool concept that compares resumes with a job description and helps organize candidates by text-match score.</p>
       <p><strong>Focus:</strong> JavaScript · PDF/Word parsing · Text matching</p>
-      <a href="https://github.com/tusharbhoi2005-sudo?tab=repositories">Explore repositories →</a>
+      <a href="https://github.com/tusharbhoi2005-sudo/resume-scanner-app">Explore repositories →</a>
     </td>
   </tr>
   <tr>
