@@ -123,7 +123,7 @@ Hey! I'm **Tushar**, a Computer Engineering student who enjoys creating practica
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tusharbhoi2005-sudo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-website-blue-seven.vercel.app/)
-[![LinkedIn](https://www.linkedin.com/in/tushar-bhoi-a1536a306)](YOUR_LINKEDIN_URL)
+
 
 </div>
 
