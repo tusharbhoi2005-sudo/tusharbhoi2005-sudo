@@ -109,13 +109,6 @@ Hey! I'm **Tushar**, a Computer Engineering student who enjoys creating practica
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbhoi2005-sudo&bg_color=00000000&color=0d9488&line=0d9488&point=0f766e&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
-  </a>
-</div>
-
-<sub>Dashboard cards are provided by community services. They may load slowly, have rate limits, or be unavailable. Language statistics reflect detected repository code, not necessarily skill level.</sub>
 
 ## 🌱 Currently learning
 
