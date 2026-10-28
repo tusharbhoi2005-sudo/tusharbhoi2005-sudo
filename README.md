@@ -73,7 +73,7 @@ Hey! I'm **Tushar**, a Computer Engineering student who enjoys creating practica
       <h3>🧥 Men's Clothing Store</h3>
       <p>A storefront concept focused on clear product presentation, useful product details, and a straightforward shopping experience.</p>
       <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
-      <a href="https://github.com/tusharbhoi2005-sudo?tab=repositories">Explore repositories →</a>
+      <a href="https://github.com/tusharbhoi2005-sudo/clothing-website">Explore repositories →</a>
     </td>
   </tr>
 </table>
