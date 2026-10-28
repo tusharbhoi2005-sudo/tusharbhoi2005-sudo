@@ -53,7 +53,7 @@ Hey! I'm **Tushar**, a Computer Engineering student who enjoys creating practica
       <h3>🎓 ExamInsight</h3>
       <p>An exam-preparation portal concept for students, with learning resources, syllabus information, mock exams, login, and progress tracking.</p>
       <p><strong>Built with:</strong> HTML · CSS · JavaScript · MySQL</p>
-      <a href="https://github.com/tusharbhoi2005-sudo?tab=repositories">Explore repositories →</a>
+      <a href="https://github.com/tusharbhoi2005-sudo/ExamInsight">Explore repositories →</a>
     </td>
     <td width="50%">
       <h3>📄 Resume Screener</h3>
